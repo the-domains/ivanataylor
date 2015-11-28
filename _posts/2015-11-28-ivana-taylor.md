@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: DIYMarketers
-datePublished: '2015-11-28T22:32:02.890Z'
-dateModified: '2015-11-28T22:31:49.491Z'
+datePublished: '2015-11-28T22:44:57.261Z'
+dateModified: '2015-11-28T22:44:48.015Z'
 title: Ivana Taylor
 author: []
 authors: []
