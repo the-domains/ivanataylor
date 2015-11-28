@@ -1,31 +1,32 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: DIYMarketers
-datePublished: '2015-11-28T22:44:57.261Z'
-dateModified: '2015-11-28T22:44:48.015Z'
-title: Ivana Taylor
+datePublished: '2015-11-28T23:39:24.590Z'
+dateModified: '2015-11-28T23:39:20.410Z'
+title: "Hi! I'm Ivana"
 author: []
+sourcePath: _posts/2015-11-28-ivana-taylor.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-28-ivana-taylor.md
-published: true
 url: ivana-taylor/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44abaf13-1590-4cdb-b14f-27031c469f52.jpg)
+# Hi! I'm Ivana
+![Ivana Taylor](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7a56d68-9b84-456a-b40d-02c703382134.jpg)
 
-Hi! I'm Ivana Taylor.  I'm the publisher of DIYMarketers - an online resource for time-and cash strapped small business owners who are looking to get and keep profitable customers on a budget.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d18af5f-4227-4b28-8be4-b8d6c2037088.jpg)
+Hey -- Nice to meet you.  I'm Ivana Taylor, publisher of DIYMarketers and producer of Bizapalooza.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/839cc2a4-d81b-4888-bdf8-53cbbad296b4.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec44342a-f5e6-4f61-ae3b-e80d1e58b7aa.png)
 
-And the producer of Bizapalooza -- an online event that shows small business owners how to run their business and have time enough to live their life.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/486653f4-cf80-4780-9c2f-5c0d4e2c3c6b.jpg)
+Have we met before?  Maybe you've seen me (or more likely some of my articles) here:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f93f16f-5f91-41fd-9b05-9b4bcca8c08d.jpg)
