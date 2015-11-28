@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://smallbiztrends.com/2015/10/creative-strategy-generation-book-review.html'
 title: '"Creative Strategy Generation:" Business Strategies That Rock'
-datePublished: '2015-11-28T22:09:17.583Z'
-dateModified: '2015-11-28T21:53:39.439Z'
+datePublished: '2015-11-28T22:09:40.511Z'
+dateModified: '2015-11-28T22:09:17.583Z'
 sourcePath: _posts/2015-11-28-creative-strategy-generation-business-strategies-that-roc.md
 published: true
 inFeed: true
