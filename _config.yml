@@ -1,6 +1,6 @@
 name: IvanaTaylor
 favicon: null
-layout_spectrum: 0.49893
+layout_spectrum: 1
 typography_spectrum: 0.4882
 title: Ivana S. Taylor
 cta:
@@ -23,7 +23,7 @@ color:
     - '#3E363F'
     - '#DD403A'
   brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.75
-  rhythmicContrast: 0.75
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
